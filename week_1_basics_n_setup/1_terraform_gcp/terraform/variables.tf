@@ -4,7 +4,7 @@ locals {
 
 variable "project" {
   description = "GCP Project"
-  default = "dtc-de"
+  default = "dtc-de-346819"
 }
 
 variable "region" {
